@@ -90,7 +90,7 @@ This section focuses on comparing healthcare facilities.
 
 ---
 
-# 🔍 Key Business Questions Answered
+#  Key Business Questions Answered
 
 This dashboard helps answer:
 
