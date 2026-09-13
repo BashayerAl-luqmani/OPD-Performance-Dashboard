@@ -74,7 +74,7 @@ The overview page provides a high-level summary of outpatient activity.
 - Patient appointments by nationality.
 - Gender and demographic analysis.
 
----
+
 
 ## OPD Facility Performance
 
