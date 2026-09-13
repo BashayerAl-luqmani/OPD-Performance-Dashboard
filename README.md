@@ -1,4 +1,9 @@
-(OPD) Performance Dashboard
+### (OPD) Performance Dashboard
+
+![OPD Performance Dashboard P1](%28OPD%29%20Performance%20Dashboard%20P1.jpg)
+
+![OPD Performance Dashboard P2](%28OPD%29%20Performance%20Dashboard%20P2.jpg)
+
 
 ## 📌 Project Overview
 
@@ -8,7 +13,6 @@ This project presents an interactive **OPD Performance Dashboard** developed usi
 
 The dashboard transforms raw healthcare data into meaningful business insights that help improve operational efficiency and support data-driven decision-making.
 
----
 
 # ❗ Problem Statement
 
