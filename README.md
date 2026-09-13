@@ -30,7 +30,7 @@ Without a centralized analytical solution, hospital managers may struggle to opt
 
 # ✅ Solution
 
-To address these challenges, an interactive Power BI dashboard was created to provide a centralized view of OPD performance.
+To address these challenges, an interactive Power BI dashboard was created to provide a centralized view of OPD performance
 
 The dashboard enables healthcare stakeholders to:
 
